@@ -152,3 +152,4 @@ if __name__ == "__main__":
     stopwatch = Stopwatch()
     stopwatch.show()
     sys.exit(app.exec_())
+    
